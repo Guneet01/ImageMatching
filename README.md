@@ -1,2 +1,2 @@
 # ImageMatching
-Image Similarity with Elastic Search 
+Searching similar iamges with Elastic Search.
